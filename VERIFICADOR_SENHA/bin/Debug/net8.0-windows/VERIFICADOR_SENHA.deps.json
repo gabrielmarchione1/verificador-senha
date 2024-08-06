@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VERIFICADOR_SENHA/1.0.0": {
+        "runtime": {
+          "VERIFICADOR_SENHA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VERIFICADOR_SENHA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

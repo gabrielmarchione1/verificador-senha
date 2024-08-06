@@ -1,0 +1,16 @@
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\bin\Debug\net8.0-windows\VERIFICADOR_SENHA.exe
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\bin\Debug\net8.0-windows\VERIFICADOR_SENHA.deps.json
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\bin\Debug\net8.0-windows\VERIFICADOR_SENHA.runtimeconfig.json
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\bin\Debug\net8.0-windows\VERIFICADOR_SENHA.dll
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\bin\Debug\net8.0-windows\VERIFICADOR_SENHA.pdb
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.FRM_VALIDAR_SENHA.resources
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.AssemblyInfoInputs.cache
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.AssemblyInfo.cs
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.dll
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\refint\VERIFICADOR_SENHA.dll
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.pdb
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\VERIFICADOR_SENHA.genruntimeconfig.cache
+C:\WindowsForms\Curso\VERIFICADOR_SENHA\VERIFICADOR_SENHA\obj\Debug\net8.0-windows\ref\VERIFICADOR_SENHA.dll
